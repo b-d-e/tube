@@ -7,6 +7,7 @@
 - [ ] Represent as graph flow problem - source data on station entrances and exits, routes, etc.
       Could this be something akin to this [Boris Bike pattern analysis](https://alan-turing-institute.github.io/TuringDataStories/stories/2022-10-06-Boris-Bikes/2023-07-07-Boris-Bikes.html)?
 - [ ] Analyse bottlenecks, regions with poor connectivity, etc. Evaluate proposals of new lines / stations for effect on this.
+- [ ] Real time - replicate [https://traintimes.org.uk/map/tube/](https://traintimes.org.uk/map/tube/)?
 - [ ] When do anomylous usage figures occur? Can we correlate this with reasons, e.g. sporting events, etc.
 - [ ] ???
 
