@@ -9,6 +9,7 @@
 - [ ] Analyse bottlenecks, regions with poor connectivity, etc. Evaluate proposals of new lines / stations for effect on this.
 - [ ] Real time - replicate [https://traintimes.org.uk/map/tube/](https://traintimes.org.uk/map/tube/)?
 - [ ] When do anomylous usage figures occur? Can we correlate this with reasons, e.g. sporting events, etc.
+- [ ] Map analysis - i.e. how close is geographical map to harry beck's?
 - [ ] ???
 
 ## Possible data sources
